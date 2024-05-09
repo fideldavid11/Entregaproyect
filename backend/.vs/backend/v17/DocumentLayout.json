@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\controllers\\listascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\controllers\\listascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\models\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\models\\listas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\implementation\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\implementation\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\implementation\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\implementation\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\uploads\\32d0d8ff-fa56-4bb8-a58c-f2879f2088fd.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\uploads\\32d0d8ff-fa56-4bb8-a58c-f2879f2088fd.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\models\\listasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\models\\listasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\migrations\\listasdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\migrations\\listasdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\migrations\\20240507140854_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20240507140854_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|c:\\users\\usuario\\desktop\\proyect2\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{64AF07A5-9E61-4B4A-8886-7066C6937796}|backend\\backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "32d0d8ff-fa56-4bb8-a58c-f2879f2088fd.png",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Uploads\\32d0d8ff-fa56-4bb8-a58c-f2879f2088fd.png",
+              "RelativeDocumentMoniker": "backend\\Uploads\\32d0d8ff-fa56-4bb8-a58c-f2879f2088fd.png",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Uploads\\32d0d8ff-fa56-4bb8-a58c-f2879f2088fd.png",
+              "RelativeToolTip": "backend\\Uploads\\32d0d8ff-fa56-4bb8-a58c-f2879f2088fd.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-07T16:35:02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Implementation\\FileService.cs",
+              "RelativeDocumentMoniker": "backend\\Implementation\\FileService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Implementation\\FileService.cs",
+              "RelativeToolTip": "backend\\Implementation\\FileService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:58:41.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Implementation\\FotoRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Implementation\\FotoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Implementation\\FotoRepository.cs",
+              "RelativeToolTip": "backend\\Implementation\\FotoRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:34:01.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "list.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Implementation\\list.cs",
+              "RelativeDocumentMoniker": "backend\\Implementation\\list.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Implementation\\list.cs",
+              "RelativeToolTip": "backend\\Implementation\\list.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:38:40.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Controllers\\ListasController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ListasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Controllers\\ListasController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ListasController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAqwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:23:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Models\\Listas.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Listas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Models\\Listas.cs",
+              "RelativeToolTip": "backend\\Models\\Listas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:28:06.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Abstract\\IFileService.cs",
+              "RelativeDocumentMoniker": "backend\\Abstract\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Abstract\\IFileService.cs",
+              "RelativeToolTip": "backend\\Abstract\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:59:47.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:58:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Listasdbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Models\\Listasdbcontext.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Listasdbcontext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Models\\Listasdbcontext.cs",
+              "RelativeToolTip": "backend\\Models\\Listasdbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:36:11.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListasdbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Migrations\\ListasdbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\ListasdbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Migrations\\ListasdbContextModelSnapshot.cs",
+              "RelativeToolTip": "backend\\Migrations\\ListasdbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:09:03.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T13:09:42.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240507140854_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Migrations\\20240507140854_InitialCreate.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240507140854_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\Migrations\\20240507140854_InitialCreate.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240507140854_InitialCreate.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:09:09.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T03:58:57.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "backend.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\backend.http",
+              "RelativeDocumentMoniker": "backend\\backend.http",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\proyect2\\backend\\backend\\backend.http",
+              "RelativeToolTip": "backend\\backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-07T13:37:20.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
